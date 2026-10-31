@@ -6,6 +6,6 @@
 ```
 versen.ir: auto_caption=off
 daghighnegaar: auto_caption=off
-kakootilife: auto_caption=off
+kakootilife: auto_caption=on
 faradid.bimeh: auto_caption=off
 ```
