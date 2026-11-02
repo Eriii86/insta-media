@@ -8,5 +8,5 @@ versen.ir: auto_caption=on
 daghighnegaar: auto_caption=off
 kakootilife: auto_caption=on
 faradid.bimeh: auto_caption=off
-qamous.ir: auto_caption=off
+qamous.ir: auto_caption=on
 ```
