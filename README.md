@@ -6,7 +6,6 @@
 
 | پوشه | پیج |
 |---|---|
-| `versen.ir/` | versen.ir |
 | `daghighnegaar/` | دقیق نگر |
 | `kakootilife/` | کاکوتی |
 | `faradid.bimeh/` | بیمه فرادید |

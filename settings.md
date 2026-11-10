@@ -4,7 +4,6 @@
 تا وقتی برند هر پیج را کامل معرفی نکرده‌اید خاموش بماند. برای تغییر کافی است به Claude بگویید.
 
 ```
-versen.ir: auto_caption=on
 daghighnegaar: auto_caption=on
 kakootilife: auto_caption=on
 faradid.bimeh: auto_caption=on
